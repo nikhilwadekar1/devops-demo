@@ -1,4 +1,4 @@
 This is demo...
-sfefsjefj
-jsfjksdkf
 kghdjkghk
+
+This file is used as demo for conflict.
